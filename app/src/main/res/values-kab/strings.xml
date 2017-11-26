@@ -9,8 +9,8 @@
     <string name="intro_skip">Zgel</string>
     <string name="intro_finish">Bdu.</string>
     <string name="intro1_text">Wagi d OpenLauncher. Amsenker n uɣbalu yeldin. Dagi i kečč.</string>
-    <string name="intro2_text">Zuɣer aḍad-ik si tama tazelmaḍt n ugdil-ik akken ad teldiḍ afeggag amectuḥ. Din-a ad tafeḍ iɣewwaṛen,
-        beddel tugna n ugilal, d ddeqs n tiɣawsiwin nniḍen.</string>
+    <string name="intro2_text">Zuɣer aḍad-ik si tama tazelmaḍt n ugdil-ik akken ad teldiḍ afeggag amectuḥ. Dina ad tafeḍ iɣewwaṛen,
+        beddel tugna n ugilal, d ddeqs n tɣawsiwin nniḍen.</string>
     <string name="intro3_title">Iɣewwaṛen</string>
     <string name="intro3_text">Tzemreḍ ad tbeddleḍ tanarit-ik, agalis n yisnasen, dock, ɛreḍ-it tura!</string>
 
@@ -29,7 +29,7 @@
     <string name="about_libs">Tinedlisin n u qbalu yeldin</string>
     <string name="about_rate">Rnu tazmilt</string>
     <string name="about_credit">Iswiziwen</string>
-    <string name="about_credit_text_all_contributors">Akk iiziwen</string>
+    <string name="about_credit_text_all_contributors">Akk iwiziwen</string>
 
     <!-- Settings -->
 
@@ -39,7 +39,7 @@
     <string name="pref_title__gestures">Imussuten</string>
     <string name="pref_title__icons">Tignitin</string>
     <string name="pref_title__miscellaneous">Ayen nniḍen</string>
-    <string name="pref_title__about">Ɣef</string>
+    <string name="pref_title__about">Γef</string>
 
     <string name="pref_title__size">Teɣzi</string>
     <string name="pref_title__style">Aɣanib</string>
@@ -53,7 +53,7 @@
 
     <string name="pref_title__desktop_style">Aɣanib</string>
     <string name="pref_title__desktop_indicator_style">Aɣani n unamel</string>
-    <string name="pref_summary__desktop_style">Fren gar tnarit Choose between a normal desktop and showing all installed apps.</string>
+    <string name="pref_summary__desktop_style">Fren gar tnarit tamagnut akked asken n akk isnasen ittwasbeden.</string>
     <string name="pref_summary__minibar">Swel asmizzwer akked tiẓri n iferdisen n ufeggag amectuḥ.</string>
     <string name="pref_title__search_bar_enable">Afeggag n unadi</string>
     <string name="pref_summary__search_bar_enable">Sken afeggag n unadi nnig n tnarit.</string>
@@ -71,7 +71,7 @@
     <string name="pref_title__search_bar_base_uri">URI n unadi</string>
     <string name="pref_summary__search_bar_base_uri">Sbadu URI yettwaseqdacen i yinadiyen web.</string>
     <string name="pref_dialog__search_bar_base_uri">Sekcem URI i yessefk ad tettwaseqdec deg inadiyen web. Tabzimt {query} tezmer ad tettwaseqdec am
-      tallunt yettwaḥ€rzen i tuttra n unadi, ma yella ulac tallunt yettwaḥ€rzen in case no placeholder is used the search query will be appended at the end of the URI.</string>
+      tallunt yettwaḥerzen i tuttra n unadi, ma yella ulac tallunt yettwaḥerzen.</string>
     <string name="pref_title__search_bar_force_browser">Ḥettem anadi n iminig</string>
     <string name="pref_summary__search_bar_force_browser">Seqdac yal tikelt iminig i unadi srid.</string>
     <string name="pref_title__desktop_background_color">Agilal</string>
